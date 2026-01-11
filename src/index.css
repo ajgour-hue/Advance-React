@@ -1,0 +1,22 @@
+*{
+  font-family: monospace;
+}
+
+.nav{
+  display: flex;
+  gap: 20px;
+}
+.nav a{
+  text-decoration: none;
+  color: black;
+}
+.nav a:hover{
+  text-decoration: underline;
+}
+
+.footer{
+  margin-top: 50px;
+  text-align: center;
+  color: gray;
+  
+}
